@@ -1,0 +1,22 @@
+.landingPage{
+    margin-top: 3%;
+    background: linear-gradient(to bottom right, #1cb1c4 0%, #f8f850 100%);
+}
+
+.border-align{
+    border: 1px solid black;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    background-color: #FFFF00;
+    position: inherit;
+    color: #000000;
+}
+
+.rowAlign{
+    margin-left: inherit;
+}
